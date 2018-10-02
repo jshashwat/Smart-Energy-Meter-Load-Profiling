@@ -1,4 +1,4 @@
-// Author : Shashwat
+// Author : Shashwat Jain
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "kmeans.h"
