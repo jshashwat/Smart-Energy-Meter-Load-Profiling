@@ -1,3 +1,4 @@
+// Heafer for kmeans algo
 #ifndef KMEANS_H
 #define KMEANS_H
 #include<point.h>
