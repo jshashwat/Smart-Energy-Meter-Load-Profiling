@@ -1,3 +1,4 @@
+// For drawing points
 #include "point.h"
 
 point::point()
