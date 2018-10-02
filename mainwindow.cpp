@@ -1,3 +1,4 @@
+// Author : Shashwat
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "kmeans.h"
@@ -16,6 +17,7 @@
 #include <QTextStream>
 #include <fstream>
 using namespace std;
+
 QString filename;
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
