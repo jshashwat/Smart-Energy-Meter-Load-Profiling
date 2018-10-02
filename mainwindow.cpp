@@ -29,6 +29,7 @@ MainWindow::MainWindow(QWidget *parent) :
 
 void MainWindow :: call_kmeans()
 {
+    cout<<"Entry point for kmeans"
     ifstream myRead;
         myRead.open("kmeans_data.txt");
         int total_points, total_values, K, max_iterations, has_name;
